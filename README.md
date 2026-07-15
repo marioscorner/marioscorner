@@ -1,73 +1,104 @@
-<h1 align="center">Hello there!</h1>
-
-###
-
-<p align="left">Hello! I am Mario Gutiérrez, a student from Spain. I am currently part of the WebDev Master's Degree in Universidad Europea, where I have developed my coding skills and learnt a lot of new technologies.<br><br> I know you are here to learn about what I can do, but I think not only the projects are important,  also who works on them. Here you have some facts about me so that you can get to know me a little bit better:<br><br>🥋 I have trained martial arts for more than a decade and a half now, and I have been a teacher since I was 17 years old.<br>🎵 Music is one of the most important things in my life. I can't live without it, and I have travelled all around the world for going to festivals.<br>📖 Apart from music I love reading, and I am always down to talk about books.</p>
-
-###
-
-<h2 align="center">What have I learnt so far?</h2>
-
-###
-
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" /></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /></a>
-  <img width="12" />
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /></a>
-  <img width="12" />
-  <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /></a>
-  <img width="12" />
-  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /></a>
-  <img width="12" />
-  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" /></a>
-  <img width="12" />
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /></a>
-  <img width="12" />
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" /></a>
-  <img width="12" />
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" /></a>
-  <img width="12" />
-  <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" /></a>
-  <img width="12" />
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /></a>
+
+# Hi, I'm Mario Gutiérrez 👋
+
+### Full-Stack Developer building practical, reliable web applications
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-marioscorner.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.marioscorner.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario_Gutiérrez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marioscorner)
+[![Email](https://img.shields.io/badge/Email-hello%40marioscorner.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@marioscorner.com)
+
 </div>
 
-###
+## About me
 
-<h2 align="center">What am I currently learning?</h2>
+I am a **Full-Stack Developer** focused on building complete web applications, from user interfaces and APIs to databases, authentication and deployment.
 
-###
+- 💼 Currently working at **Eco Combustión**
+- 🎓 Master's degree in **Web Application Development**
+- 🧠 Interested in software architecture, real-time features and useful digital products
+- 🥋 Taekwondo instructor and developer of a management platform for my club
+- 📍 Based in Spain
+- 🌐 More about my work at [marioscorner.com](https://www.marioscorner.com)
+
+## Tech stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![Angular](https://img.shields.io/badge/Angular-000?style=flat-square&logo=angular)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=flat-square&logo=tailwindcss)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
+![Django](https://img.shields.io/badge/Django-000?style=flat-square&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-000?style=flat-square&logo=socketdotio)
+
+### Databases and tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux)
+
+## Featured project
+
+### 🥋 Taekwondo Mario Gutiérrez
+
+A full-stack platform created to improve communication and management within my Taekwondo club.
+
+**Main features:**
+
+- Role-based authentication for students, instructors and administrators
+- Student profiles and document management
+- Friend requests and private conversations
+- Real-time chat using Socket.IO
+- Password recovery by email
+- PostgreSQL database managed with Prisma
+- Containerised deployment with Docker and Nginx
+
+**Built with:** Next.js, React, TypeScript, Node.js, Socket.IO, Prisma, PostgreSQL and Docker.
+
+## What I enjoy working on
+
+```text
+Full-stack applications  ████████████████████
+Backend architecture     ██████████████████░░
+Database design          ██████████████████░░
+Real-time features       █████████████████░░░
+UI development           ████████████████░░░░
+```
+
+## GitHub statistics
 
 <div align="center">
-  <a href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" /></a>
-  <img width="12" />
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" /></a>
-  <img width="12" />
-  <a href="https://mochajs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" alt="mocha logo" /></a>
-  <img width="12" />
-  <a href="https://www.heroku.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo" /></a>
-  <img width="12" />
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" /></a>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=marioscorner&show_icons=true&hide_border=true&count_private=true" alt="Mario's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioscorner&layout=compact&hide_border=true" alt="Mario's most used languages" />
+
 </div>
 
-###
+## Contact
 
-<h2 align="center">Connect with me here!</h2>
+I am open to connecting with other developers, discussing projects and exploring new professional opportunities.
 
-###
+- Website: [marioscorner.com](https://www.marioscorner.com)
+- LinkedIn: [linkedin.com/in/marioscorner](https://www.linkedin.com/in/marioscorner)
+- Email: [hello@marioscorner.com](mailto:hello@marioscorner.com)
+
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/marioscorner/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/elrincondehoid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
-  <a href="https://www.instagram.com/marioscorner/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
+
+**Turning ideas into useful web applications.**
+
 </div>
