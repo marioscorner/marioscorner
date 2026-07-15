@@ -25,30 +25,36 @@ I am a **Full-Stack Developer** focused on building complete web applications, f
 
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=FF4791)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=FF4791)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=FF4791)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=FF4791)
-![Angular](https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular&logoColor=FF4791)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=FF4791)
+<p>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="64" height="64" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="64" height="64" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="64" height="64" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="64" height="64" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="64" height="64" alt="Angular" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="64" height="64" alt="Tailwind CSS" />
+</p>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=FF4791)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=FF4791)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FF4791)
-![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django&logoColor=FF4791)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=FF4791)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-111111?style=for-the-badge&logo=socketdotio&logoColor=FF4791)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="64" height="64" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="64" height="64" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="64" height="64" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=django&theme=dark" width="64" height="64" alt="Django" />
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="64" height="64" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=socketio&theme=dark" width="64" height="64" alt="Socket.IO" />
+</p>
 
 ### Databases and tools
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=FF4791)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=FF4791)
-![Prisma](https://img.shields.io/badge/Prisma-111111?style=for-the-badge&logo=prisma&logoColor=FF4791)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=FF4791)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=FF4791)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FF4791)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="64" height="64" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="64" height="64" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="64" height="64" alt="Prisma" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="64" height="64" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="64" height="64" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="64" height="64" alt="Linux" />
+</p>
 
 ## Featured project
 
