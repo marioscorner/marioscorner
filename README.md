@@ -8,24 +8,26 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario_Gutiérrez-FF4791?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marioscorner)
 [![Email](https://img.shields.io/badge/Email-hello%40marioscorner.com-FF4791?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@marioscorner.com)
 
-</div align="center">
+---
 
 ## About me
 
 I am a **Full-Stack Developer** focused on building complete web applications, from user interfaces and APIs to databases, authentication and deployment.
 
-- 💼 Currently working at **Eco Combustión**
-- 🎓 Master's degree in **Web Application Development**
-- 🧠 Interested in software architecture, real-time features and useful digital products
-- 🥋 Taekwondo instructor and developer of a management platform for my club
-- 📍 Based in Spain
-- 🌐 More about my work at [marioscorner.com](https://www.marioscorner.com)
+💼 Currently working at **Eco Combustión**  
+🎓 Master's degree in **Web Application Development**  
+🧠 Interested in software architecture, real-time features and useful digital products  
+🥋 Taekwondo instructor and developer of a management platform for my club  
+📍 Based in Spain  
+🌐 More about my work at [marioscorner.com](https://www.marioscorner.com)
+
+---
 
 ## Tech stack
 
 ### Frontend
 
-<p align="center">
+<p>
   <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="58" height="58" alt="JavaScript" title="JavaScript" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/typescript/FFFFFF" width="58" height="58" alt="TypeScript" title="TypeScript" />
@@ -41,7 +43,7 @@ I am a **Full-Stack Developer** focused on building complete web applications, f
 
 ### Backend
 
-<p align="center">
+<p>
   <img src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" width="58" height="58" alt="Node.js" title="Node.js" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/express/FFFFFF" width="58" height="58" alt="Express" title="Express" />
@@ -57,7 +59,7 @@ I am a **Full-Stack Developer** focused on building complete web applications, f
 
 ### Databases and tools
 
-<p align="center">
+<p>
   <img src="https://cdn.simpleicons.org/postgresql/FFFFFF" width="58" height="58" alt="PostgreSQL" title="PostgreSQL" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mysql/FFFFFF" width="58" height="58" alt="MySQL" title="MySQL" />
@@ -71,37 +73,37 @@ I am a **Full-Stack Developer** focused on building complete web applications, f
   <img src="https://cdn.simpleicons.org/linux/FFFFFF" width="58" height="58" alt="Linux" title="Linux" />
 </p>
 
+---
+
 ## Featured project
 
 ### 🥋 Taekwondo Mario Gutiérrez
 
 A full-stack platform created to improve communication and management within my Taekwondo club.
 
-**Main features:**
+**Main features**
 
-- Role-based authentication for students, instructors and administrators
-- Student profiles and document management
-- Friend requests and private conversations
-- Real-time chat using Socket.IO
-- Password recovery by email
-- PostgreSQL database managed with Prisma
-- Containerised deployment with Docker and Nginx
+🔐 Role-based authentication for students, instructors and administrators  
+👤 Student profiles and document management  
+💬 Friend requests and private conversations  
+⚡ Real-time chat using Socket.IO  
+📧 Password recovery by email  
+🗄️ PostgreSQL database managed with Prisma  
+🐳 Containerised deployment with Docker and Nginx  
 
 **Built with:** Next.js, React, TypeScript, Node.js, Socket.IO, Prisma, PostgreSQL and Docker.
 
-## What I enjoy working on
-
-```text
-Full-stack applications  ████████████████████
-Backend architecture     ██████████████████░░
-Database design          ██████████████████░░
-Real-time features       █████████████████░░░
-UI development           ████████████████░░░░
-```
-
 ---
 
-<div align="center">
+## What I enjoy working on
+
+`Full-stack applications  ████████████████████`  
+`Backend architecture     ██████████████████░░`  
+`Database design          ██████████████████░░`  
+`Real-time features       █████████████████░░░`  
+`UI development           ████████████████░░░░`
+
+---
 
 **Turning ideas into useful web applications.**
 
