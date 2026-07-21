@@ -25,36 +25,51 @@ I am a **Full-Stack Developer** focused on building complete web applications, f
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="64" height="64" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="64" height="64" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="64" height="64" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="64" height="64" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="64" height="64" alt="Angular" />
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="64" height="64" alt="Tailwind CSS" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="52" height="52" alt="JavaScript" /></td>
+    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="52" height="52" alt="TypeScript" /></td>
+    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="52" height="52" alt="React" /></td>
+    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="52" height="52" alt="Next.js" /></td>
+    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="52" height="52" alt="Angular" /></td>
+    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="52" height="52" alt="Tailwind CSS" /></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF4791" height="3"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td>
+  </tr>
+</table>
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="64" height="64" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="64" height="64" alt="Express" />
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="64" height="64" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=django&theme=dark" width="64" height="64" alt="Django" />
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="64" height="64" alt="FastAPI" />
-  <img src="https://skillicons.dev/icons?i=socketio&theme=dark" width="64" height="64" alt="Socket.IO" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="52" height="52" alt="Node.js" /></td>
+    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.simpleicons.org/express/FFFFFF" width="52" height="52" alt="Express" /></td>
+    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="52" height="52" alt="Python" /></td>
+    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="52" height="52" alt="Django" /></td>
+    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="52" height="52" alt="FastAPI" /></td>
+    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="52" height="52" alt="Socket.IO" /></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF4791" height="3"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td>
+  </tr>
+</table>
 
 ### Databases and tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="64" height="64" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="64" height="64" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="64" height="64" alt="Prisma" />
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="64" height="64" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="64" height="64" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="64" height="64" alt="Linux" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="52" height="52" alt="PostgreSQL" /></td>
+    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="52" height="52" alt="MySQL" /></td>
+    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.simpleicons.org/prisma/FFFFFF" width="52" height="52" alt="Prisma" /></td>
+    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="52" height="52" alt="Docker" /></td>
+    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="52" height="52" alt="Git" /></td>
+    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="52" height="52" alt="Linux" /></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FF4791" height="3"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td>
+  </tr>
+</table>
 
 ## Featured project
 
