@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario_Gutiérrez-FF4791?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marioscorner)
 [![Email](https://img.shields.io/badge/Email-hello%40marioscorner.com-FF4791?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@marioscorner.com)
 
-</div>
+</div align="center">
 
 ## About me
 
