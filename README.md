@@ -25,51 +25,51 @@ I am a **Full-Stack Developer** focused on building complete web applications, f
 
 ### Frontend
 
-<table>
-  <tr>
-    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="52" height="52" alt="JavaScript" /></td>
-    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="52" height="52" alt="TypeScript" /></td>
-    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="52" height="52" alt="React" /></td>
-    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="52" height="52" alt="Next.js" /></td>
-    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="52" height="52" alt="Angular" /></td>
-    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="52" height="52" alt="Tailwind CSS" /></td>
-  </tr>
-  <tr>
-    <td bgcolor="#FF4791" height="3"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="58" height="58" alt="JavaScript" title="JavaScript" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/FFFFFF" width="58" height="58" alt="TypeScript" title="TypeScript" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/FFFFFF" width="58" height="58" alt="React" title="React" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="58" height="58" alt="Next.js" title="Next.js" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/angular/FFFFFF" width="58" height="58" alt="Angular" title="Angular" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" width="58" height="58" alt="Tailwind CSS" title="Tailwind CSS" />
+</p>
 
 ### Backend
 
-<table>
-  <tr>
-    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="52" height="52" alt="Node.js" /></td>
-    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.simpleicons.org/express/FFFFFF" width="52" height="52" alt="Express" /></td>
-    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="52" height="52" alt="Python" /></td>
-    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="52" height="52" alt="Django" /></td>
-    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="52" height="52" alt="FastAPI" /></td>
-    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="52" height="52" alt="Socket.IO" /></td>
-  </tr>
-  <tr>
-    <td bgcolor="#FF4791" height="3"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" width="58" height="58" alt="Node.js" title="Node.js" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" width="58" height="58" alt="Express" title="Express" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/FFFFFF" width="58" height="58" alt="Python" title="Python" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/django/FFFFFF" width="58" height="58" alt="Django" title="Django" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/FFFFFF" width="58" height="58" alt="FastAPI" title="FastAPI" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="58" height="58" alt="Socket.IO" title="Socket.IO" />
+</p>
 
 ### Databases and tools
 
-<table>
-  <tr>
-    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="52" height="52" alt="PostgreSQL" /></td>
-    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="52" height="52" alt="MySQL" /></td>
-    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.simpleicons.org/prisma/FFFFFF" width="52" height="52" alt="Prisma" /></td>
-    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="52" height="52" alt="Docker" /></td>
-    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="52" height="52" alt="Git" /></td>
-    <td align="center" width="76" bgcolor="#251C22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="52" height="52" alt="Linux" /></td>
-  </tr>
-  <tr>
-    <td bgcolor="#FF4791" height="3"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td><td bgcolor="#FF4791"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/postgresql/FFFFFF" width="58" height="58" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/FFFFFF" width="58" height="58" alt="MySQL" title="MySQL" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/FFFFFF" width="58" height="58" alt="Prisma" title="Prisma" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/FFFFFF" width="58" height="58" alt="Docker" title="Docker" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/FFFFFF" width="58" height="58" alt="Git" title="Git" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FFFFFF" width="58" height="58" alt="Linux" title="Linux" />
+</p>
 
 ## Featured project
 
