@@ -91,11 +91,9 @@ INTEGRATION   Hardware & software communication
 
 <div align="center">
 
-### Let's build something useful.
+### Let's build something together!
 
 [**marioscorner.com**](https://www.marioscorner.com)
-
-<br>
 
 <sub>Turning today's ideas into the solutions of tomorrow.</sub>
 
