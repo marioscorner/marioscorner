@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mario Gutiérrez
+# Mario 'marioscorner' Gutiérrez
 
 ### Full-Stack Developer
 
