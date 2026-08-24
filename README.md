@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Mario Gutiérrez
@@ -9,9 +8,9 @@ Building practical, reliable and scalable web applications.
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF4791?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.marioscorner.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF4791?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marioscorner)
-[![Email](https://img.shields.io/badge/EMAIL-FF4791?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@marioscorner.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF4791?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://www.marioscorner.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF4791?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/marioscorner)
+[![Email](https://img.shields.io/badge/EMAIL-FF4791?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hello@marioscorner.com)
 
 </div>
 
@@ -39,25 +38,25 @@ Currently working at **Eco Combustión**.
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,tailwind&theme=dark" alt="Frontend technologies" />
 
 <br>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi&theme=dark" alt="Backend technologies" />
 
 <br>
 
 ### Data & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,docker,nginx,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,docker,nginx,linux&theme=dark" alt="Data and infrastructure technologies" />
 
 <br>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development tools" />
 
 </div>
 
@@ -66,26 +65,13 @@ Currently working at **Eco Combustión**.
 ## What I work with
 
 ```text
-WEB          Full-stack applications
-BACKEND      APIs & application architecture
-DATA         PostgreSQL, MySQL & Prisma
-REAL-TIME    Socket.IO & event-driven features
-DEVOPS       Docker, Nginx & Linux
-INTEGRATION  Hardware & software communication
-````
-
----
-
-## GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=marioscorner&show_icons=true&hide_border=true&theme=transparent&title_color=FF4791&icon_color=FF4791" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioscorner&layout=compact&hide_border=true&theme=transparent&title_color=FF4791" />
-
-</div>
-
-<br>
+WEB           Full-stack applications
+BACKEND       APIs & application architecture
+DATABASE      PostgreSQL, MySQL & Prisma
+REAL-TIME     Socket.IO & event-driven features
+DEVOPS        Docker, Nginx & Linux
+INTEGRATION   Hardware & software communication
+```
 
 ---
 
@@ -94,6 +80,8 @@ INTEGRATION  Hardware & software communication
 ### Let's build something useful.
 
 [**marioscorner.com**](https://www.marioscorner.com)
+
+<br>
 
 <sub>Turning today's ideas into the solutions of tomorrow.</sub>
 
