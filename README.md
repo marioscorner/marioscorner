@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 # Mario Gutiérrez
@@ -98,4 +98,3 @@ INTEGRATION  Hardware & software communication
 <sub>Turning today's ideas into the solutions of tomorrow.</sub>
 
 </div>
-```
