@@ -105,6 +105,6 @@ A full-stack platform created to improve communication and management within my 
 
 ---
 
-**Turning ideas into useful web applications.**
+**Turning today's ideas into the solutions of tomorrow.**
 
 </div>
