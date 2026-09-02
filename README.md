@@ -27,11 +27,11 @@ I like understanding how every part of a project connects and choosing the right
 
 ### Currently
 
-**Eco Combustión**
+Working at **Eco Combustión**
 
-Full-Stack Development
+as a Full Stack Developer
 
-Spain
+Madrid, Spain
 
 <br>
 
