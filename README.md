@@ -93,7 +93,6 @@ Madrid, Spain
 <td>
 <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" width="38" height="38" alt="Git" title="Git"></a>&nbsp;&nbsp;
 <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/8B949E" width="38" height="38" alt="GitHub" title="GitHub"></a>&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="38" height="38" alt="Visual Studio Code" title="Visual Studio Code"></a>
 </td>
 </tr>
 </table>
